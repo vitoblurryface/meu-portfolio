@@ -27,11 +27,11 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #ed89ff;
+    color:  #89ff93;
 }
 
 button:hover {
-    box-shadow: 0 0 8px #e551ff;
+    box-shadow: 0 0 8px #51ff6b;
     transform: scale(1.05);
 }
 
@@ -71,14 +71,14 @@ header .contato button {
     padding: 13px 35px;
     font-size: 12px;
     font-weight: 500;
-    background-color: #ed89ff;
+    background-color: #89ff93;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
 }
 
 header .contato button:hover {
-    box-shadow: 0 0 8px #e551ff;
+    box-shadow: 0 0 8px #51ff6b;
 }
 
 /* estilo topo */
@@ -99,7 +99,7 @@ section.topo-do-site .flex {
 }
 
 .topo-site h1 span {
-    color: #ed89ff;
+    color: #89ff93;
 }
 
 .topo-site .txt-topo-site p {
@@ -131,7 +131,7 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box i {
     font-size: 70px;
-    color: #ed89ff;
+    color: #89ff93;
 }
 
 .especialidades .especialidades-box h3 {
@@ -167,7 +167,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #ed89ff;
+    color: #89ff93;
     display: block;
 }
 
@@ -181,7 +181,7 @@ section.sobre .flex {
     height: 60px;
     border-radius: 50%;
     border: none;
-    background-color: #ed89ff;
+    background-color: #89ff93;
     font-size: 23px;
     cursor: pointer;
     transition: 0.2s;
@@ -256,11 +256,11 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid #ed89ff;
+    border-top: 2px solid #89ff93;
 }
 
 footer .line-footer p i {
-    color: #ed89ff;
+    color: #89ff93;
     font-size: 26px;
     margin-right: 10px;
     vertical-align: middle;
@@ -268,7 +268,7 @@ footer .line-footer p i {
 
 footer .line-footer a {
     text-decoration: none;
-    color: #ed89ff;
+    color:#89ff93 ;
 }
 
 html {
