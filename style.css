@@ -212,17 +212,12 @@ section.portfolio .flex {
     position: relative;
     overflow: hidden;
     border-radius: 15px;
-    height: 420px; /* ESSENCIAL */
 }
 
 .img-port img {
     width: 100%;
-    height: 100%;
-    object-fit: cover; /* ESSENCIAL */
     display: block;
     border-radius: 15px;
-    z-index: 1;
-    position: relative;
 }
 
 .overlay {
@@ -347,4 +342,5 @@ html {
         font-size: 10px;
     }
 }
+
 
