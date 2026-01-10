@@ -83,7 +83,7 @@ header .contato button:hover {
 
 /* estilo topo */
 section.topo-do-site {
-    padding: 80px 4%;
+    padding: 60px 4%;
 }
 
 section.topo-do-site .flex {
@@ -335,6 +335,7 @@ html {
         font-size: 10px;
     }
 }
+
 
 
 
