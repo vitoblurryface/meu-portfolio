@@ -66,6 +66,19 @@ header nav ul li {
     display: inline-block;
     padding: 0 40px;
 }
+header .contato button {
+    padding: 13px 35px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #89ff93;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+header .contato button:hover {
+    box-shadow: 0 0 8px #51ff6b;
+}
 
 /* estilo topo */
 section.topo-do-site {
@@ -321,6 +334,7 @@ html {
         font-size: 10px;
     }
 }
+
 
 
 
