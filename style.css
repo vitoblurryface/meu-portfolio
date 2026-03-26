@@ -269,7 +269,11 @@ footer .line-footer {
 
 footer .line-footer p i {
     color: #ff4da6;
+    font-size: 26px;
+    margin-right: 10px;
+    vertical-align: middle;
 }
+
 
 footer .line-footer a {
     text-decoration: none;
