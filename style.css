@@ -1,4 +1,3 @@
-
 /* estilo geral */
 * {
     margin: 0;
@@ -28,11 +27,13 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color:  #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 button:hover {
-    box-shadow: 0 0 8px #51ff6b;
+    box-shadow: 0 0 8px #ff4da6, 0 0 12px #a64dff;
     transform: scale(1.05);
 }
 
@@ -71,14 +72,14 @@ header .contato button {
     padding: 13px 35px;
     font-size: 12px;
     font-weight: 500;
-    background-color: #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
     border: 0;
     border-radius: 30px;
     cursor: pointer;
 }
 
 header .contato button:hover {
-    box-shadow: 0 0 8px #51ff6b;
+    box-shadow: 0 0 8px #ff4da6, 0 0 12px #a64dff;
 }
 
 /* estilo topo */
@@ -99,7 +100,9 @@ section.topo-do-site .flex {
 }
 
 .topo-site h1 span {
-    color: #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .topo-site .txt-topo-site p {
@@ -131,7 +134,9 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box i {
     font-size: 70px;
-    color: #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .especialidades .especialidades-box h3 {
@@ -167,7 +172,9 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     display: block;
 }
 
@@ -181,7 +188,7 @@ section.sobre .flex {
     height: 60px;
     border-radius: 50%;
     border: none;
-    background-color: #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
     font-size: 23px;
     cursor: pointer;
     transition: 0.2s;
@@ -256,11 +263,14 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid #89ff93;
+    border-top: 2px solid;
+    border-image: linear-gradient(45deg, #ff4da6, #a64dff) 1;
 }
 
 footer .line-footer p i {
-    color: #89ff93;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 26px;
     margin-right: 10px;
     vertical-align: middle;
@@ -268,7 +278,9 @@ footer .line-footer p i {
 
 footer .line-footer a {
     text-decoration: none;
-    color:#89ff93 ;
+    background: linear-gradient(45deg, #ff4da6, #a64dff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 html {
@@ -335,11 +347,3 @@ html {
         font-size: 10px;
     }
 }
-
-
-
-
-
-
-
-
