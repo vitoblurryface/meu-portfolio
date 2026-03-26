@@ -268,12 +268,7 @@ footer .line-footer {
 }
 
 footer .line-footer p i {
-    background: linear-gradient(45deg, #ff4da6, #a64dff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 26px;
-    margin-right: 10px;
-    vertical-align: middle;
+    color: #ff4da6;
 }
 
 footer .line-footer a {
