@@ -183,6 +183,13 @@ section.sobre .flex {
     text-align: justify;
 }
 
+.social {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
 .social button {
     width: 60px;
     height: 60px;
